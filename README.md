@@ -1,0 +1,2 @@
+# prayerSMS
+These scripts use Twilio's SMS service to text you a random prayer evey day. You will need to create a twilio account and update the variables. I also use these scripts with python anywhere to run them everyday.
