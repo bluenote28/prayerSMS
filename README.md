@@ -3,6 +3,6 @@ These scripts use Twilio's SMS service to text you a random prayer evey day. You
 
 dailyscripture.py - will send a random scripture verse to your number.
 
-dailyintentionprayer.py - will ask your to pray certain prayers for a certain intention. For example, "pray three out fathers for the dyying."
+dailyintentionprayer.py - will ask your to pray certain prayers for a certain intention. For example, "pray three our fathers for the dying."
 
-morningoffering.py - will send you the morning offering perayer
+morningoffering.py - will send you the morning offering prayer
